@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\krist\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="C:\Users\krist\Documents\ProgArk\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_9208a80b8e44a2a76e0abbf31816aca011233785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krist\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="C:\Users\krist\Documents\ProgArk\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_0f6ef98c4ae2400754a4c18860dd08f3883cbbe2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krist\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="C:\Users\krist\Documents\ProgArk\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_ff334f3049e36cd724133e31dbc9878bc3136c1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\krist\Documents\ProgArk\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a84401cb30fc26b2fa0e3cd5689bdc6c466e692">
+        <dex dex="C:\Users\krist\Documents\ProgArk\android\build\intermediates\pre-dexed\debug\core-1.0_623bdedf02fff1dacada8c7b2260dd59f17318fa.jar" />
+    </item>
+
+</items>
